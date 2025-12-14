@@ -1,6 +1,4 @@
-# KipuBankV2-
-
-# KipuBank V2 🏦
+# KipuBankV2
 
 > **Advanced Multi-Asset Vault System with USD-Based Accounting**
 
